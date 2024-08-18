@@ -22,6 +22,11 @@ I'd love to share my favorite plugins and essential configuration that might be 
 |                 | Excalidraw            |                                              |
 | Control Version | LazyGit               |                                              |
 
+
+# My NVIM Configuration
+
+[NVIM Configuration](https://github.com/azuka31/AzukaNVIM)
+
 # VIM Basic Tutorial
 
 ## Autoincrement tutorial
@@ -47,3 +52,4 @@ h : left
 l : right
 
 block paragraph : shift + [
+
