@@ -12,4 +12,3 @@ At first, you need to decide the best package manager for you computer. It could
 
 ## Iterm
 
-

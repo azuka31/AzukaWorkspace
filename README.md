@@ -6,50 +6,19 @@ I'd love to share my favorite plugins and essential configuration that might be 
 
 ## List of Contents
 
-| Key Aspects     | Tools                 | Repository                                   |
-|-----------------|-----------------------|----------------------------------------------|
-| Programming     | Bash                  | fzf eza bat                                  |
-|                 | Python                | Plotly Seaboarn                              |
-|                 | SQL                   | DadBodUi                                     |
-| OS              | MacOS                 | Filehub, Rectangle, Alfred                   |
-|                 | ITerm                 | Powerlevel10K Midnight Commander Tmux Brew   |
-| Text Editor     | NeoVim                | Telescope NeoTree Markdown Preview, DadBodUI |
-|                 | JupyterLab            |                                              |
-| Gui Tools       | Microsoft Excel       | Toolbars; Chart Template                     |
-|                 | Microsoft Power Point | Objects                                      |
-|                 | Think-Cell            |                                              |
-| Note Taking     | Obsidian              |                                              |
-|                 | Excalidraw            |                                              |
-| Control Version | LazyGit               |                                              |
-
-
-# My NVIM Configuration
-
-[NVIM Configuration](https://github.com/azuka31/AzukaNVIM)
-
-# VIM Basic Tutorial
-
-## Autoincrement tutorial
-- Block Vertical using ctrl v
-- type g
-- type ctrl a
-
-## Additionl Neovim
-
-## Mode
-1. Normal (Esc, Ctrl + [)
-    Condition: All keybindings are shortcut, you can't type in this mode
-2. Insert (i, shift + a, shift + i)
-    Condition: You can type in this mode
-3. Visual (v, Shift + v, ctrl v)
-    Condition: Blocking selected line, character
-
-## Navigation 
-Note : in normal mode
-j : down
-k : up
-h : left
-l : right
-
-block paragraph : shift + [
+| Key Aspects     | Tools                 | Repository                                                             |
+|-----------------|-----------------------|------------------------------------------------------------------------|
+| Programming     | Bash                  | [fzf eza bat](contents/bash/fzf_bat_eza_development.md)                |
+|                 | Python                | Plotly<br>Seaborn                                                      |
+|                 | SQL                   | [DadbodUI](https://github.com/tpope/vim-dadbod)                        |
+| OS              | MacOS                 | Filehub<br>Rectangle<br>Alfred                                         |
+|                 | ITerm                 | Powerlevel10K<br>Midnight Commander<br>Tmux Brew                       |
+| Text Editor     | NeoVim                | Telescope<br>NeoTree<br>Markdown Preview                               |
+|                 | JupyterLab            |                                                                        |
+| Gui Tools       | Microsoft Excel       | Toolbars<br>Chart Template                                             |
+|                 | Microsoft Power Point | Objects                                                                |
+|                 | Think-Cell            |                                                                        |
+| Note Taking     | Obsidian              |                                                                        |
+|                 | Excalidraw            |                                                                        |
+| Control Version | LazyGit               | [Lazygit](https://github.com/jesseduffield/lazygit?tab=readme-ov-file) |
 
