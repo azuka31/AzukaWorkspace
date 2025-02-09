@@ -3,6 +3,7 @@
 # AzukaWorkspace
 
 I'd love to share my favorite plugins and essential configuration that might be a minor points you don't even notice. It is important to note that I use zsh as main configuration, if you got then same environment with me then you are lucky.
+Overall, mynvim dev ![nvim_dev](https://github.com/azuka31/AzukaNVIM)
 
 ## List of Contents
 
